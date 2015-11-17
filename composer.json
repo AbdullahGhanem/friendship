@@ -9,6 +9,7 @@
             "email": "3bdullah.ghanem@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=5.5.9",
         "illuminate/support": "~5.0"
