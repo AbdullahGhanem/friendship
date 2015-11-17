@@ -6,7 +6,7 @@ This package will allow you to add a full report system into your Laravel applic
 First, pull in the package through Composer.
 
 ```js
-composer require ghanem\friendship
+composer require ghanem/friendship
 ```
 
 And then include the service provider within `app/config/app.php`.
