@@ -9,7 +9,7 @@
  * file that was distributed with this source code.
  */
 
-namespace PackageBackup\Friendable;
+namespace Ghanem\Friendship;
 
 /**
  * Class Status.
